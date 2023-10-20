@@ -1,0 +1,39 @@
+.head{
+    text-align: center;
+    font-style: italic;
+    font-weight: 1000;
+    font-size: xx-large;
+    background-color: cadetblue;
+    height: 50px;
+    border-style: dotted;
+}
+
+.body{
+
+    position: relative;
+    top: 100px;
+    height:200px;
+    text-align: center;
+    
+}
+
+.inpText{
+    border-style: dotted;
+    font-size: medium;
+}
+
+.foot{
+    text-align: center;
+    font-style: italic;
+    font-weight: 1000;
+    font-size: small;
+    background-color: cadetblue;
+    height: 50px;
+    top: 420px;
+    border-style: dotted;
+    position: relative;
+}
+
+.button{
+    margin-top: 50px;
+}
