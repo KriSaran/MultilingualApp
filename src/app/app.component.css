@@ -14,7 +14,6 @@
     top: 100px;
     height:200px;
     text-align: center;
-    
 }
 
 .inpText{
@@ -28,7 +27,7 @@
     font-weight: 1000;
     font-size: small;
     background-color: cadetblue;
-    height: 50px;
+    height: 20px;
     top: 420px;
     border-style: dotted;
     position: relative;
@@ -36,4 +35,16 @@
 
 .button{
     margin-top: 50px;
+}
+
+.container{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.app{
+    background-image: url("https://media.istockphoto.com/id/1137996207/photo/brown-wood-texture-dark-wooden-abstract-background.jpg?s=2048x2048&w=is&k=20&c=x7QAUhdsGJImpe2UyPfd5KPH14TxXjX4LDjVveP4KHY=");
+    height: 700px;
+    width: 1520px;
+    
 }
